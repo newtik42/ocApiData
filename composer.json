@@ -3,7 +3,7 @@
     "description": "Description of project ocApiData.",
     "keywords"    : [],
     "license"     : "MIT",
-    "minimum-stability":"1.1.1",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "NewTik",
