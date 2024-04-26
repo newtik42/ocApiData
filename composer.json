@@ -1,0 +1,22 @@
+{
+    "name": "newtik/ocapidata",
+    "description": "Description of project ocApiData.",
+    "keywords"    : [],
+    "license"     : "MIT",
+    "authors": [
+        {
+            "name": "NewTik",
+            "email": "dev@newtik-opencart.com"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7.4"
+    },
+    
+    "autoload" : {
+        "psr-4": {
+            "NewTik\\ocApiData\\":"src/"
+        }
+    }
+    
+}
